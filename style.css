@@ -4,7 +4,7 @@
 
 background: #1b1f22;
 */
-background-image: url('ab.jpg');	
+
 margin:0;
 padding:0;
 background-repeat: no-repeat;
@@ -14,14 +14,10 @@ background-size: cover;
 
 }
 .box
-{	padding: 20px;
+{
 	margin-left:35%;
 	width: 100%;
-	height: 400px;
-	
-br{
-	padding: 10px;
-}		
+
 }
 .body1{
 	transform-style: all;
